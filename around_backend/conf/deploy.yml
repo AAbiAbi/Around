@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.145.18.68:9200"
+  username: "AbiLiang"
+  password: "19980903"
+
+gcs:
+ bucket: "around_storage"
+
+token:
+  secret: "secret"
